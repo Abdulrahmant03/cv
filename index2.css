@@ -7,11 +7,20 @@ body {
 }
 
 header {
-    background-color: #007bff;
+    background-color: #006633;
     color: #fff;
     padding: 20px 0;
     text-align: center;
+
 }
+
+.logo {
+    width: 90px; 
+    height: auto; 
+    margin-top: -50px;
+    float: left;
+}
+
 
 h1 {
     margin: 0;
