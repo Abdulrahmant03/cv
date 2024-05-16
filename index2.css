@@ -37,3 +37,26 @@ section {
 
 
 }
+
+h2 {
+    color: #006633;
+    font-size: 1.7em;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+a {
+    color: #08a858;
+    text-decoration: none;
+}
+
+form {
+    margin-top: 20px;
+}
